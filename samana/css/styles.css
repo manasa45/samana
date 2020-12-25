@@ -1,0 +1,166 @@
+body {
+  font-family: Montserrat;
+  color: #11999E:
+}
+
+#title {
+  background-image: url("https://www.proplanetpeople.com/wp-content/uploads/2017/01/course9.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  position: relative;
+  height: 100%;
+  width: 100%;
+  padding-top: 10px;
+  padding-bottom: 400px;
+  color: #11999E;
+}
+
+h1 {
+  font-family: 'Montserrat-Black', sans-serif;
+  font-size: 2rem;
+  line-height: 1.5;
+  color: #11999E;
+}
+
+h2 {
+  font-family: "Montserrat-Bold";
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+h3 {
+  font-family: "Montserrat-bold";
+}
+
+.logocontainer {
+  font-family: 'Montserrat-black', sans-serif;
+  font-size: 2rem;
+  line-height: 1.5;
+  margin: auto;
+  color: #11999E;
+  padding: 30px 0 30px 0;
+  text-align: center;
+}
+
+.navbarcontainer {
+  font-family: 'Montserrat-black', sans-serif;
+  font-size: 2rem;
+  color: #4a3333;
+  padding: 30px 0 30px 0;
+  text-align: center;
+}
+
+#logosym {
+  color: #4a3333;
+  text-decoration: none;
+  font-family: Merriweather;
+}
+
+.container-fluid {
+  padding: 3% 15%;
+}
+
+/* Navigation bar */
+
+.navbar {
+  margin-right: 20%;
+}
+
+.navbar-brand {
+  font-family: "Ubuntu";
+  font-weight: bold;
+  font-size: 2.5rem;
+  color: #11999E;
+}
+
+.navbar-item {
+  padding: 0 10px;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  font-family: Montserrat-light;
+  color: #7d5a5a;
+}
+
+/* download button */
+
+/* feature */
+#features {
+  padding: 7% 15%;
+}
+
+.feature-box {
+  text-align: center;
+  padding: 5%;
+}
+
+.icon {
+  color: #ef8172;
+  margin-bottom: 1rem;
+}
+
+.icon:hover {
+  color: #ff4c68;
+}
+
+/* testimonial section */
+#testimonials {
+  padding: 7% 15%;
+  text-align: center;
+  background-color: #ef8172;
+  color: #ffff;
+}
+
+.testimonial-img {
+  width: 20%;
+  border-radius: 100%;
+}
+
+#press {
+  background-color: #ef8172;
+  text-align: center;
+  padding-bottom: 3%;
+}
+
+.press-logo {
+  width: 10%;
+  margin: 20px 20px 50px;
+}
+
+/* pricing section */
+#pricing {
+  padding: 100px;
+  text-align: center;
+}
+
+.pricing-column {
+  padding: 3% 2%;
+}
+
+#cta {
+  background-color: #ff4c68;
+  font-family: Montserrat-light;
+  color: white;
+  padding: 7% 15%;
+  text-align: center;
+  line-height: 100px;
+}
+
+.cta-heading{
+  font-family: Montserrat-Black;
+  font-size: 3.5rem;
+  line-height: 1.5;
+}
+
+#footer {
+  padding: 7% 15%;
+  padding-top: 30px;
+  text-align: center;
+  line-height: 50px;
+}
+
+.social-icon {
+  margin: 20px 15px;
+}
